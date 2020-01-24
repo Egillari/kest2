@@ -19,4 +19,4 @@ Við byrjuðum að taka plötunar af turn kassanum, síðan power supply, síða
 * örgjafinn er með intel core i3 - 4160
 ### ram
 * það eru 16 gb ram
-## hér er linkur fyrir [pdf](https://nam.inna.is/api/Attachment/DownloadFile/399951/536639?student=1) skjal
+## hér er linkur fyrir [pdf](http://asrock.pc.cdn.bitgravity.com/Manual/B85%20Anniversary.pdf) skjal
