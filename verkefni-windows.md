@@ -59,7 +59,24 @@
     * Ethernet
   * What is the IPv4 address of the PC?
     * 192.168.56.1
-  *
+  * What happens when you click memory in the process tab and also click it twice?
+    * ef þú clikkar einu sinni þá sorterar talvan með mestu memry notkun til minnstu og ef þú clikkar tvisvar þá kemur listinn öfugur
+  * What happens when you change it to percetage?
+    * listin kemur með prósentum
+  * How could this be useful?
+    * Ef maður vill sjá listann í prósentum/það er betra að lesa hann þannig
+  * If you click name the listed processes are divided by categories. What categories are listed?
+    * Öll catagories eru:
+      * Apps
+      * Background Processes
+      * Windows Processes
+  * Right-click a usernamein the Users menu. What are the available options?
+    * Allir möguleikar eru:
+      * Expand 
+      * Disconnect
+      * Manage User Account
+  * 
+
   
 
 
