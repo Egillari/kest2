@@ -86,10 +86,6 @@
    	* Standard userar geta ekki breytt neinu sem hefur áhryf á alla tölvuna eins og breyta security
   * For this lab, select Delete Files. What are the other options? When would you choose the other options?
     * Það eru engin options
-  * In Notepad, click File > Print. Record a listed printer
-    * Litur on tsmyq.2t.local og status = ready
-  * Right-click Print Spooler and select Stop then Navigate to Notepad. Attempt to print What message did you receive? How would you fix this?
-    * Error messageið sem eg fekk var: Before you can perform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now? og þú gætir lagað það með því að breyta settings til baka og vera nær prentara eða tengja tölvuna við prentarann
 
 
 ### 11.2.5.8 Lab - Manage Virtual Memory   Gummi
@@ -103,12 +99,61 @@
     * það segir ekki neitt núna en sagði running áðan
   * in your windows logs and in the General tab, what is listed as the Source of the event? What is the severity level?
     * Source = SecurityCenter --  severity level = information
+  * In Notepad, click File > Print. Record a listed printer
+    * Litur on tsmyq.2t.local og status = ready
+  * Right-click Print Spooler and select Stop then Navigate to Notepad. Attempt to print What message did you receive? How would you fix this?
+    * Error messageið sem eg fekk var: Before you can perform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now? og þú gætir lagað það með því að breyta settings til baka og vera nær prentara eða tengja tölvuna við prentarann
+  * When DHCP Client stops, what other services will also be stopped?
+    * Allt sem stoppar er:
+      * Intel(R) dynamic application loader host interface service 
+      * IP helper
+      * WinHTTP wb proxy auto-discovery service 
+      * Network connected devices auto-setup
+      * Network list service
+      * Network location awareness
+   * Why is it important to exercise care when managing services?
+     * Svo maður vitir hvað á að gera þegar maður þarf að gera þetta
+   * What is the full path name to the example file name?
+     * C:\PerfLogs\LEGIONEL_20200220-000001\DataCollector01.csv en get ekki breytt log formatinu
+   * What does the column farthest to the right show?
+     * get ekki opnað hana rétt eg get ekki breytt formatinu og ég þarf .csv og eg er með .blg
+
 
 ### 11.3.2.7 Lab - System Utilities   gummi
 
 ### 11.3.2.8 Lab - Manage System Files    agust
 
 ### 11.4.1.5 Lab - Work in the Windows Command Shell    elvar
+  * To see the next page, press the spacebar. What happens when you press enter?
+    * þú færð bara eina línu í einu
+  * fill out the functions of the following commands:
+    * þetta eu öll commands og svör
+      * cd = Displays the name of or changes the current directory.
+      * CHKDSK = Checks a disk and displays a status report.
+      * Copy = Copies one or more files to another location.
+      * DEL = Deletes one or more files.
+      * DIR = Displays a list of files and subdirectories in a directory.
+      * DISKPART = Displays or configures Disk Partition properties.
+      * EXIT = Quits the CMD.EXE program (command interpreter).
+      * FORMAT = Formats a disk for use with Windows.
+      * GPRESULT = Displays Group Policy information for machine or user.
+      * MD = Creates a directory.
+      * TASKLIST = Displays all currently running tasks including services.
+      * RD = Removes a directory.
+      * ROBOCOPY = Advanced utility to copy files and directory trees
+      * shutdown = Allows proper local or remote shutdown of machine.
+      * XCOPY = Copies files and directory trees.
+    * How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is
+C:\Users\ITEUser?
+      * = mkdir a b c
+    * What command would you use to verify the creation of the nested directories?
+      * í Linux gætirðu notað ls en í terminal geturu notað DIR
+    * Clear the screen using the command line. What command did you use?
+      * CLS
+    * What is the last command that you have used?
+      * CLS
+    * Press up arrow to display the last command used.
+      * CLS
 
 ### 11.4.2.7 Lab - File System Commands   gummi
 
@@ -121,7 +166,7 @@
 
 
 
-Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
+### Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
 
 11.5.2.4 Lab - Share Resources
 
