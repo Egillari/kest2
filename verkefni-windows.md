@@ -75,22 +75,34 @@
       * Expand 
       * Disconnect
       * Manage User Account
-  * 
-
   
-
-
 ### 11.1.4.11 Lab - Working with File Explorer    gummi 
 
 ### 11.2.1.5 Lab - Explore Control Panel Categories agust
 
 ### 11.2.2.3 Lab - User Accounts Eg
+  * Það eru nokkrar spurningar sem eg get ekki svarað eins og að breyta hlutum um accounta sem var breytt i windows 10 spurningarnar eru fyrir windows 7 og 8
+  * What is the advantage of having most users work within a Standard user account?
+   	* Standard userar geta ekki breytt neinu sem hefur áhryf á alla tölvuna eins og breyta security
+  * For this lab, select Delete Files. What are the other options? When would you choose the other options?
+    * Það eru engin options
+  * In Notepad, click File > Print. Record a listed printer
+    * Litur on tsmyq.2t.local og status = ready
+  * Right-click Print Spooler and select Stop then Navigate to Notepad. Attempt to print What message did you receive? How would you fix this?
+    * Error messageið sem eg fekk var: Before you can perform printer related tasks such as page setup or printing a document, you need to install a printer. do you want to install a printer now? og þú gætir lagað það með því að breyta settings til baka og vera nær prentara eða tengja tölvuna við prentarann
+
 
 ### 11.2.5.8 Lab - Manage Virtual Memory   Gummi
 
 ### 11.2.6.2 Lab - Use Device Manager   agust
 
 ### 11.3.1.11 Lab - Monitor and Manage System Resources   Elvar
+  * What is the status of the Defender Antivirus Network Inspection Service?
+    * Running
+  * Record the Windows Defender status after turning windows virus protector off.
+    * það segir ekki neitt núna en sagði running áðan
+  * in your windows logs and in the General tab, what is listed as the Source of the event? What is the severity level?
+    * Source = SecurityCenter --  severity level = information
 
 ### 11.3.2.7 Lab - System Utilities   gummi
 
