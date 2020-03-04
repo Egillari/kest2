@@ -174,6 +174,10 @@ and 40 minutes?
     * sfc /VERIFYONLY
   * Enter the command to log off your computer. Record the command below.
     * shutdown /l
+  * Log back into the computer and shut it down in 120 seconds using the command line
+    * shutdown /s /t 120 /c
+  * Record the command below. What warning message did you see?
+    * 
   
 ### 11.4.5.3 Lab - Other Useful Commands gummi
 
