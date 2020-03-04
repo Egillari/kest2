@@ -172,6 +172,8 @@ and 40 minutes?
     * tasklist /fi "cputime gt 01:00:00" eða tasklist /fi "cputime gt 00:40:00"
   * What option would you use if you only wanted to scan the integrity of all the protected system files?
     * sfc /VERIFYONLY
+  * Enter the command to log off your computer. Record the command below.
+    * shutdown /l
   
 ### 11.4.5.3 Lab - Other Useful Commands gummi
 
