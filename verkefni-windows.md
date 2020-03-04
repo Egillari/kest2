@@ -177,7 +177,9 @@ and 40 minutes?
   * Log back into the computer and shut it down in 120 seconds using the command line
     * shutdown /s /t 120 /c
   * Record the command below. What warning message did you see?
-    * 
+    * you are about to get signed out
+  * What command would you use to abort the shutdown?
+    * shutdown /a
   
 ### 11.4.5.3 Lab - Other Useful Commands gummi
 
