@@ -162,7 +162,17 @@ C:\Users\ITEUser?
 ### 11.4.4.2 Lab - Task and System CLI Commands  eg 
   * What command would you use to display the results of tasklist one page at a time?
     * tasklist | more
-  * 
+  * What is the option to list the modules that are associated with a task?
+    * /M
+  * What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a
+few tasks that uses oleaut32.dll.
+    * tasklist /M oleaut32.dll og nikkur dæmi eru: svchost.exe, SkypeApp.exe og tasklist.exe
+  * What command would you use to find out all the processes that have been running for more than 1 hour
+and 40 minutes?
+    * tasklist /fi "cputime gt 01:00:00" eða tasklist /fi "cputime gt 00:40:00"
+  * What option would you use if you only wanted to scan the integrity of all the protected system files?
+    * sfc /VERIFYONLY
+  
 ### 11.4.5.3 Lab - Other Useful Commands gummi
 
 
