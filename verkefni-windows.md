@@ -160,7 +160,9 @@ C:\Users\ITEUser?
 ### 11.4.3.2 Lab - Disk CLI Commands  agust
 
 ### 11.4.4.2 Lab - Task and System CLI Commands  eg 
-
+  * What command would you use to display the results of tasklist one page at a time?
+    * tasklist | more
+  * 
 ### 11.4.5.3 Lab - Other Useful Commands gummi
 
 
